@@ -28,7 +28,7 @@
     "less-plugin-clean-css": "1.5.1",
     "normalize.css": "5.0.0",
     "opml-to-json": "0.0.3",
-    "react": "15.4.1",
+    "react": "15.5.4",
     "react-dom": "15.4.0",
     "react-ga": "^2.1.2",
     "xmldoc": "1.0.0"
