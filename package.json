@@ -45,7 +45,7 @@
     "gulp": "3.9.1",
     "tslint": "4.5.0",
     "typescript": "2.2.1",
-    "webpack": "1.14.0"
+    "webpack": "3.5.5"
   },
   "build": {
     "appId": "ch.xstoudi.alduin",
